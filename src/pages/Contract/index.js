@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Container, Clausulas, Texto } from './styles';
+import { Container, Texto } from './styles';
 import ComponentEditor from './Editor';
 
 export default function Contract() {
